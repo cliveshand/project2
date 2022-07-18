@@ -1,2 +1,0 @@
-glen.txt
-add to glen
